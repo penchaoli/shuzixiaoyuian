@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/lpc_log_jujueneihao.png">
-    <Ercihanshu msg="Welcome to Your Vue.js App"/>
+    <Firsthtml msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import Ercihanshu from './components/Ercihanshu.vue'
+import Firsthtml from './components/Firsthtml.vue'
 
 export default {
   name: 'App',
   components: {
-    Ercihanshu
+    Firsthtml
   }
 }
 </script>
